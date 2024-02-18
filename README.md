@@ -1,5 +1,8 @@
 # university
 ## 1 курс
+первые задачи на C++: \
+https://github.com/olbenka/practice-pevm
+
 5 проектов по дисциплине ПЭВМ на C++
 * Простая база данных
 * BigInteger
