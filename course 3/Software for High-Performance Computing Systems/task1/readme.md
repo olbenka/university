@@ -6,5 +6,6 @@
 Источник: https://kpfu.ru/portal/docs/F_838384873/MPI_v_srede_VS.pdf
 
 ## OpenMP 
+![](photo_2024-03-10_19-02-04.jpg) 
 
 ## OpenCL
